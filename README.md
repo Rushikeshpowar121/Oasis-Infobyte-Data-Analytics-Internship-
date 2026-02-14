@@ -72,7 +72,7 @@ Python, Pandas, Scikit-learn, Matplotlib
 ---
 
 ## 📌 Repository Structure
-Project-1-Retail-EDA/
-Project-2-Data-Cleaning/
-Project-3-Customer-Segmentation/
-README.md
+- Project-1-Retail-EDA/
+- Project-2-Data-Cleaning/
+- Project-3-Customer-Segmentation/
+- README.md
